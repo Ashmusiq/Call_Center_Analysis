@@ -1,1 +1,2 @@
 # Call_Center_Analysis
+Call center analysis using Power BI involves utilizing the powerful data visualization and business intelligence capabilities of Microsoft Power BI to gain deep insights into the performance, trends, and customer interactions within a call center environment. Power BI enables call center managers and stakeholders to transform raw call data into interactive and visually engaging dashboards, reports, and visualizations that provide actionable insights for improving operational efficiency and enhancing customer experiences.
